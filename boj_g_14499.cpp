@@ -86,7 +86,7 @@ int main(void){
 		if (board[nx][ny] == 0) {
 			board[nx][ny] = bottom;
 		}
-		else if (board[nx][ny] != 0) { // else를 쓸 것! (앞의 if문에서 보드 칸이 0이 되어 다음 if문에 또 걸릴 가능성이 있음.)
+		else if (board[nx][ny] != 0) { // else를 쓸 것! (앞의 if문에서 보드 칸이 0이 아니게 되어 다음 if문에 또 걸릴 가능성이 있음.)
 			diceX[1] = board[nx][ny];
 			diceY[1] = board[nx][ny];
 			board[nx][ny] = 0;
