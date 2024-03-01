@@ -2,6 +2,7 @@
 // 백준 14891번 톱니바퀴
 // 언어: C++
 
+
 #include <iostream>
 #include <deque>
 
