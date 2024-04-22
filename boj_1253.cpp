@@ -1,6 +1,7 @@
 // https://www.acmicpc.net/problem/1253
 // 백준 1253번 좋다
 // 언어: C++
+// https://github.com/hjmiru
 
 
 #include <iostream>
