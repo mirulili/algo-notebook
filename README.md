@@ -1,1 +1,2 @@
-# practice01
+# C++ Solution for Baekjoon Online Judge
+https://github.com/hjmiru/BOJ_practice
