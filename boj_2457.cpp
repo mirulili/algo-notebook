@@ -1,7 +1,4 @@
 // https://www.acmicpc.net/problem/2457
-// 백준 2457번 공주님의 정원
-// 언어: C++
-// https://github.com/hjmiru
 
 #include <iostream>
 #include <algorithm>
