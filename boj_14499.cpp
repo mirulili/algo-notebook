@@ -1,8 +1,4 @@
 // https://www.acmicpc.net/problem/14499
-// 백준 14499번 주사위 굴리기
-// 언어: C++
-// https://github.com/hjmiru
-
 
 #include <iostream>
 #include <deque>
