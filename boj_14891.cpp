@@ -1,8 +1,4 @@
 // https://www.acmicpc.net/problem/14891
-// 백준 14891번 톱니바퀴
-// 언어: C++
-// https://github.com/hjmiru
-
 
 #include <iostream>
 #include <deque>
