@@ -1,7 +1,4 @@
 // https://www.acmicpc.net/problem/3190
-// 백준 3190번 뱀
-// 언어: C++
-// https://github.com/hjmiru
 
 #include <iostream>
 #include <deque>
