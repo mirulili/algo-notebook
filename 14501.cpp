@@ -37,3 +37,14 @@ int main(){
 
     return 0;
 }
+
+
+/*  
+    // O(N) 풀이
+    for (int i = 1; i <= n; i++){
+    d[i] = max(d[i], d[i-1]);
+    if (i + T[i] - 1 <= n)
+        d[i + T[i]] = max(d[i + T[i]], dp[i] + P[i]);
+    }
+    cout << max(dp[n], dp[n+1]);
+*/
