@@ -1,5 +1,6 @@
 // https://www.acmicpc.net/problem/14501
 // algorithm: DP
+// time complexity: O(N^2)
 
 #include <iostream>
 #include <algorithm>
