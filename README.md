@@ -1,1 +1,2 @@
-A record of algorithm solving. Problems are mainly from https://www.acmicpc.net
+This is a study record of algorithms and data structures by @mirulili. 
+Problems are mainly from https://www.acmicpc.net
